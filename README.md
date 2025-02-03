@@ -15,7 +15,8 @@ This is a modified version of the classic memory game implemented on an Arduino 
   - Plays a song when the player wins or loses.
 
 - **Debugging**:
-  - Updates on the serial monitor for the purpose of verifying inputs and sequences.
+  - Updates on the serial monitor for game states and player inputs.
+  - Button-presses will sound/light up before the game starts.
 
 - **Game Mechanics**:
   - The game is based on the classic memory game but with an added challenge: each round features a random sequence of increasing length.
