@@ -30,7 +30,7 @@ The game uses an Arduino board, an LCD display, and a buzzer. The circuit design
 
 ## Files Included:
 
-- **memory_game.ini**: The complete program file, which includes the code for the game, LCD display, and buzzer functionality.
+- **modified-memory-game.ini**: The complete program file, which includes the code for the game, LCD display, and buzzer functionality.
 
 ## How to Play:
 
@@ -52,6 +52,6 @@ The game uses an Arduino board, an LCD display, and a buzzer. The circuit design
 
 ## How to Use:
 
-1. Upload the **memory_game.ini** file to your Arduino.
-2. Set up the circuit following the Tinkercad design.
+1. Upload the **modified-memory-game.ini** file to your Arduino. / Upload the **modified-memory-game** folder to your Arduino folder.
+2. Set up the circuit following the circuit design.
 3. Power on your Arduino and start playing!
